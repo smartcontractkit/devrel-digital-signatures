@@ -1,4 +1,4 @@
-# Merkle Tree Tutorial
+# Authenticate Web3 Users With SvelteKit and Ethers.js
 This repo will support the tutorial [How To Authenticate Web3 Users With SvelteKit and Ethers.js](https://www.youtube.com/watch?v=ZWL8gtwvvqY)
 
 ## How To Use This Repo
